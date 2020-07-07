@@ -8,5 +8,5 @@ comments: false
     
 # About ME
 
-My name is Jon. I love doing close up magic, creating custom cards and cooking!
+My name is Jon. I love doing close up magic, creating custom cards and cooking
 
