@@ -37,8 +37,7 @@
 	button:hover,
 	button.dl-active,
 	ul {
-		background: #aaa;
-	}
+		background: $secondary-comp ;
 	button:after {
 		content: '';
 		position: absolute;
